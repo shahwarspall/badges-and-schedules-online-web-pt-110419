@@ -15,5 +15,5 @@ end
 def assign_rooms(names)
   room =[]
   names.each do |name|
-  
+  room << name
 end
