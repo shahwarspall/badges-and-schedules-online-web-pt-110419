@@ -17,3 +17,5 @@ def assign_rooms(names)
   names.each do |name|
   room << name
 end
+room
+end
