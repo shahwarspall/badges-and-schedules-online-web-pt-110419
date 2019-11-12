@@ -12,6 +12,8 @@ end
 new_array
 end
 
-def assign_rooms()
+def assign_rooms(name)
+  room =[]
+  name.each do |
   
 end
